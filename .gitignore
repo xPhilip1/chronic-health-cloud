@@ -1,0 +1,18 @@
+# 依赖
+node_modules/
+oh_modules/
+
+# 构建与 IDE
+.hvigor/
+build/
+.idea/
+local.properties
+*.log
+mybuild.log
+
+# 签名与凭证（不要提交）
+*.p12
+*.p7b
+*.cer
+*.jks
+.env

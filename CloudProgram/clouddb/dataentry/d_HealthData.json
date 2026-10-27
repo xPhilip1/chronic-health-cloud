@@ -1,0 +1,18 @@
+{
+  "cloudDBZoneName": "Chronic",
+  "objectTypeName": "HealthData",
+  "objects": [
+    {
+      "dataId": 1001,
+      "userId": 1,
+      "bloodPressureSystolic": 125,
+      "bloodPressureDiastolic": 80,
+      "bloodSugar": 5.6,
+      "weight": 70.5,
+      "heartRate": 72,
+      "recordTime": "2026-10-01T08:00:00.000Z",
+      "dataSource": "user_input",
+      "notes": "云端种子数据"
+    }
+  ]
+}

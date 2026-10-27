@@ -1,0 +1,15 @@
+{
+  "cloudDBZoneName": "Chronic",
+  "objectTypeName": "HealthWarning",
+  "objects": [
+    {
+      "warningId": 2001,
+      "userId": 1,
+      "warningType": "other",
+      "warningMessage": "这是一条云端种子预警，用于验证链路",
+      "warningTime": "2026-10-01T08:00:00.000Z",
+      "acknowledged": false,
+      "severity": "low"
+    }
+  ]
+}

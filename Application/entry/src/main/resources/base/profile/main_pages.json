@@ -1,0 +1,27 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/HomePage",
+    "pages/ForumPage",
+    "pages/MessagePage",
+    "pages/ChatPage",
+    "pages/PostDetailPage",
+    "pages/FavoritePage",
+    "pages/MyPostsPage",
+    "pages/PostEditPage",
+    "pages/SearchPage",
+    "pages/DraftsPage",
+    "pages/HealthDataPage",
+    "pages/AddDataPage",
+    "pages/TrendsPage",
+    "pages/WarningsPage",
+    "pages/AdvicePage",
+    "pages/ProfilePage",
+    "pages/BindDoctorPage",
+    "pages/PatientDetailPage",
+    "pages/DoctorDetailPage",
+    "pages/AboutPage"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "agcgw": {
+    "url": "connect-drcn.dbankcloud.cn",
+    "backurl": "connect-drcn.hispace.hicloud.com",
+    "websocketurl": "connect-ws-drcn.hispace.dbankcloud.cn",
+    "websocketbackurl": "connect-ws-drcn.hispace.dbankcloud.com"
+  },
+  "agcgw_all": {
+    "SG": "connect-dra.dbankcloud.cn",
+    "SG_back": "connect-dra.hispace.hicloud.com",
+    "CN": "connect-drcn.dbankcloud.cn",
+    "CN_back": "connect-drcn.hispace.hicloud.com",
+    "RU": "connect-drru.hispace.dbankcloud.ru",
+    "RU_back": "connect-drru.hispace.dbankcloud.cn",
+    "DE": "connect-dre.dbankcloud.cn",
+    "DE_back": "connect-dre.hispace.hicloud.com"
+  },
+  "websocketgw_all": {
+    "SG": "connect-ws-dra.hispace.dbankcloud.cn",
+    "SG_back": "connect-ws-dra.hispace.dbankcloud.com",
+    "CN": "connect-ws-drcn.hispace.dbankcloud.cn",
+    "CN_back": "connect-ws-drcn.hispace.dbankcloud.com",
+    "RU": "connect-ws-drru.hispace.dbankcloud.ru",
+    "RU_back": "connect-ws-drru.hispace.dbankcloud.cn",
+    "DE": "connect-ws-dre.hispace.dbankcloud.cn",
+    "DE_back": "connect-ws-dre.hispace.dbankcloud.com"
+  },
+  "client": {
+    "cp_id": "30086000787619681",
+    "product_id": "101653523865261136",
+    "client_id": "2057616234047914560",
+    "client_secret": "YOUR_AGC_CLIENT_SECRET",
+    "project_id": "101653523865261136",
+    "app_id": "6917618619421737741",
+    "api_key": "YOUR_AGC_API_KEY",
+    "package_name": "com.example.chronichealth"
+  },
+  "oauth_client": {
+    "client_id": "6917618619421737741",
+    "client_type": 30
+  },
+  "app_info": {
+    "app_id": "6917618619421737741",
+    "package_name": "com.example.chronichealth"
+  },
+  "code": {
+    "code1": "AD16702F767C5289276E1638FCE2881C",
+    "code2": "4A2F509F51A1247DB097781D0A48B278",
+    "code3": "EC32CDE79B7FEB19D62A4AA06C560650",
+    "code4": "7908214A18629C7A56A20BACEF833735"
+  },
+  "service": {
+    "analytics": {
+      "collector_url": "datacollector-drcn.dt.hicloud.com,datacollector-drcn.dt.dbankcloud.cn",
+      "collector_url_cn": "datacollector-drcn.dt.hicloud.com,datacollector-drcn.dt.dbankcloud.cn",
+      "collector_url_de": "datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+      "collector_url_ru": "datacollector-drru.dt.dbankcloud.ru,datacollector-drru.dt.hicloud.com",
+      "collector_url_sg": "datacollector-dra.dt.hicloud.com,datacollector-dra.dt.dbankcloud.cn",
+      "resource_id": "p1",
+      "channel_id": ""
+    },
+    "ml": {
+      "mlservice_url": "ml-api-drcn.ai.dbankcloud.com,ml-api-drcn.ai.dbankcloud.cn"
+    },
+    "cloudstorage": {
+      "storage_url": "https://agc-storage-drcn.platform.dbankcloud.cn",
+      "storage_url_ru": "https://agc-storage-drru.cloud.huawei.ru",
+      "storage_url_sg": "https://ops-dra.agcstorage.link",
+      "storage_url_de": "https://ops-dre.agcstorage.link",
+      "storage_url_cn": "https://agc-storage-drcn.platform.dbankcloud.cn",
+      "storage_url_ru_back": "https://agc-storage-drru.cloud.huawei.ru",
+      "storage_url_sg_back": "https://agc-storage-dra.cloud.huawei.asia",
+      "storage_url_de_back": "https://agc-storage-dre.cloud.huawei.eu",
+      "storage_url_cn_back": "https://agc-storage-drcn.cloud.huawei.com.cn"
+    },
+    "search": {
+      "url": "https://search-drcn.cloud.huawei.com"
+    },
+    "edukit": {
+      "edu_url": "edukit.cloud.huawei.com.cn",
+      "dh_url": "edukit.cloud.huawei.com.cn"
+    }
+  },
+  "region": "CN",
+  "configuration_version": "3.0",
+  "appInfos": [
+    {
+      "package_name": "com.example.chronichealth",
+      "client": {
+        "client_secret": "[!005D56F83A41EA8BD37A4CDCC0080C77EF2534F46601D007A0841044A91BF6469F4FFF5B38747A6024BE0233B349C1F23A442AB1DB0808D31999BC2A2AF0C9D215ED900E43BED7CF03E53639A3ED61A2DBBBE125C4D25E8DA94749510AAE4E9CEB]",
+        "app_id": "6917618619421737741",
+        "api_key": "[!0003CF671D9D064A4789ADBC9345EF2F81847ADD920567853CDE6015EB0F5B9F03101F07F79EABA7E0AFE30AB6EFE760D69975B67367DCFF6A2370EC371B9671CC1E2D40C1ED20D216967B6D8C434B7DB90962E3B23EB1395060C5E71556AE9DAAABB28967F39459B998A13BC314520C02B719CA6817E367DEA668EA32DAFB3029]"
+      },
+      "code": {
+        "code1": "6846485D3A1675C7A50814BE0FBF919727A271FD6FD8BA00F545E66ABAEC460B",
+        "code2": "8CE8F230E4F4194D85FE8082C543532D784C9C659D407AC106C1C22D0ECBCB91",
+        "code3": "D9EB2E482555E02A16E22C2B063027D0DED954D49A2B9B29CCC5378D94A574FD",
+        "code4": "2DA7A3056841FAB651258A67218FD6C1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "appSelected": {
+    "appId": "6917618619421737741",
+    "appName": "ChronicHealth",
+    "deviceTypes": [
+      {
+        "appAdapters": "5",
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "101653523865261136",
+    "projectName": "ChronicHealth",
+    "siteId": "CN"
+  },
+  "teamId": "30086000787619681",
+  "uid": "30086000787619681"
+}

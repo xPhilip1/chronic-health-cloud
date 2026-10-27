@@ -1,0 +1,45 @@
+{
+  "cloudDBZoneName": "Chronic",
+  "objectTypeName": "User",
+  "objects": [
+    {
+      "userId": 1,
+      "username": "testuser",
+      "password": "123456",
+      "email": "test@test.com",
+      "phone": "13800138000",
+      "gender": "male",
+      "role": "patient",
+      "dateOfBirth": "1990-01-01",
+      "doctorLicense": "",
+      "doctorId": 2,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "userId": 2,
+      "username": "testdoctor",
+      "password": "123456",
+      "email": "doc@test.com",
+      "phone": "13900139000",
+      "gender": "female",
+      "role": "doctor",
+      "dateOfBirth": "1985-05-05",
+      "doctorLicense": "DOC12345",
+      "doctorId": 0,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "userId": 3,
+      "username": "admin",
+      "password": "123456",
+      "email": "admin@test.com",
+      "phone": "13700137000",
+      "gender": "male",
+      "role": "admin",
+      "dateOfBirth": "1980-10-10",
+      "doctorLicense": "",
+      "doctorId": 0,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ]
+}

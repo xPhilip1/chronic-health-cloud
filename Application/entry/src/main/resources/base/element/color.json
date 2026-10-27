@@ -1,0 +1,176 @@
+{
+    "color":  [
+                  {
+                      "name":  "white",
+                      "value":  "#ffffff"
+                  },
+                  {
+                      "name":  "start_window_background",
+                      "value":  "#ffffff"
+                  },
+                  {
+                      "name":  "action_button_background",
+                      "value":  "#169cd5"
+                  },
+                  {
+                      "name":  "dialog_cancel_background",
+                      "value":  "#D9001B"
+                  },
+                  {
+                      "name":  "black",
+                      "value":  "#000000"
+                  },
+                  {
+                      "name":  "body_color",
+                      "value":  "#333333"
+                  },
+                  {
+                      "name":  "placeholder_background",
+                      "value":  "#eeeeee"
+                  },
+                  {
+                      "name":  "disabled_button_background",
+                      "value":  "#C2C2C2"
+                  },
+                  {
+                      "name":  "border_color",
+                      "value":  "#FF9B9B9B"
+                  },
+                  {
+                      "name":  "login_button",
+                      "value":  "#007DFF"
+                  },
+                  {
+                      "name":  "canvas",
+                      "value":  "#FFF6F8F5"
+                  },
+                  {
+                      "name":  "canvas_2",
+                      "value":  "#FFEDF1EC"
+                  },
+                  {
+                      "name":  "surface",
+                      "value":  "#FFFFFFFF"
+                  },
+                  {
+                      "name":  "surface_2",
+                      "value":  "#FFF4F7F3"
+                  },
+                  {
+                      "name":  "surface_3",
+                      "value":  "#FFE9EEE8"
+                  },
+                  {
+                      "name":  "hairline",
+                      "value":  "#1410201A"
+                  },
+                  {
+                      "name":  "hairline_strong",
+                      "value":  "#2910201A"
+                  },
+                  {
+                      "name":  "ink",
+                      "value":  "#FF121C18"
+                  },
+                  {
+                      "name":  "ink_sub",
+                      "value":  "#FF5A6763"
+                  },
+                  {
+                      "name":  "ink_faint",
+                      "value":  "#FF8B9893"
+                  },
+                  {
+                      "name":  "on_primary",
+                      "value":  "#FFFFFFFF"
+                  },
+                  {
+                      "name":  "mint",
+                      "value":  "#FF0F7A5C"
+                  },
+                  {
+                      "name":  "mint_deep",
+                      "value":  "#FF0A5A44"
+                  },
+                  {
+                      "name":  "mint_soft",
+                      "value":  "#1A0F7A5C"
+                  },
+                  {
+                      "name":  "mint_glow",
+                      "value":  "#380F7A5C"
+                  },
+                  {
+                      "name":  "amber",
+                      "value":  "#FF9A6D25"
+                  },
+                  {
+                      "name":  "amber_soft",
+                      "value":  "#1A9A6D25"
+                  },
+                  {
+                      "name":  "danger",
+                      "value":  "#FFC0392B"
+                  },
+                  {
+                      "name":  "danger_soft",
+                      "value":  "#17C0392B"
+                  },
+                  {
+                      "name":  "warn",
+                      "value":  "#FF9A6D25"
+                  },
+                  {
+                      "name":  "warn_soft",
+                      "value":  "#1A9A6D25"
+                  },
+                  {
+                      "name":  "ok",
+                      "value":  "#FF0F7A5C"
+                  },
+                  {
+                      "name":  "ok_soft",
+                      "value":  "#1A0F7A5C"
+                  },
+                  {
+                      "name":  "m_bp",
+                      "value":  "#FF0F7A5C"
+                  },
+                  {
+                      "name":  "m_bp_bg",
+                      "value":  "#140F7A5C"
+                  },
+                  {
+                      "name":  "m_sugar",
+                      "value":  "#FF1D7A93"
+                  },
+                  {
+                      "name":  "m_sugar_bg",
+                      "value":  "#141D7A93"
+                  },
+                  {
+                      "name":  "m_hr",
+                      "value":  "#FFB04A3A"
+                  },
+                  {
+                      "name":  "m_hr_bg",
+                      "value":  "#14B04A3A"
+                  },
+                  {
+                      "name":  "m_weight",
+                      "value":  "#FF5D7A33"
+                  },
+                  {
+                      "name":  "m_weight_bg",
+                      "value":  "#175D7A33"
+                  },
+                  {
+                      "name":  "m_exercise",
+                      "value":  "#FF8C6A2E"
+                  },
+                  {
+                      "name":  "m_exercise_bg",
+                      "value":  "#178C6A2E"
+                  }
+              ]
+}
